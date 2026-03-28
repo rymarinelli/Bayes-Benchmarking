@@ -46,5 +46,5 @@ prompted and run all cells in order.
 
 ## Submission
 
-This work was presented at the 40th International Workshop on Statistical Modelling 
+This work was submitted to 40th International Workshop on Statistical Modelling 
 (IWSM), Oslo, Norway, 28 June – 3 July 2026.
